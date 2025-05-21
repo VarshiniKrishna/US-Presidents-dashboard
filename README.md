@@ -1,5 +1,4 @@
-# US-Presidents-dashboard
-An Excel dashboard built using cleaned SQL data of US president's salaries.
+
 # US Presidents Salary Dashboard
 
 This is a beginner-level data project where I cleaned a dataset using *SQL* and visualized it through an *interactive Excel dashboard*.
